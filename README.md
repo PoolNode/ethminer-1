@@ -79,25 +79,6 @@ To download the .exe on a build under `Job name` select the CUDA version you use
 
 See [docs/BUILD.md](docs/BUILD.md) for build/compilation details.
 
-## Maintainers & Authors
-
-[![Gitter](https://img.shields.io/gitter/room/ethereum-mining/ethminer.svg)][Gitter]
-
-The list of current and past maintainers, authors and contributors to the ethminer project.
-Ordered alphabetically. [Contributors statistics since 2015-08-20].
-
-| Name                  | Contact                                                      |     |
-| --------------------- | ------------------------------------------------------------ | --- |
-| Andrea Lanfranchi     | [@AndreaLanfranchi](https://github.com/AndreaLanfranchi)     | ETH: 0xa7e593bde6b5900262cf94e4d75fb040f7ff4727 |
-| EoD                   | [@EoD](https://github.com/EoD)                               |     |
-| Genoil                | [@Genoil](https://github.com/Genoil)                         |     |
-| goobur                | [@goobur](https://github.com/goobur)                         |     |
-| Marius van der Wijden | [@MariusVanDerWijden](https://github.com/MariusVanDerWijden) |     |
-| Paweł Bylica          | [@chfast](https://github.com/chfast)                         |     |
-| Philipp Andreas       | [@smurfy](https://github.com/smurfy)                         |     |
-| Stefan Oberhumer      | [@StefanOberhumer](https://github.com/StefanOberhumer)       |     |
-
-
 ## Contribute
 
 [![Gitter](https://img.shields.io/gitter/room/ethereum-mining/ethminer.svg)][Gitter]
